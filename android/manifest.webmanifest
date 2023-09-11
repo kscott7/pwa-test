@@ -3,7 +3,7 @@
     "background_color": "#ffffff",
     "display": "fullscreen",
     "scope": "/",
-    "start_url": "/android/app/",
+    "start_url": "/pwa-test/android/app/",
     "name": "PWA - Android",
     "short_name": "Android",
     "icons": [
