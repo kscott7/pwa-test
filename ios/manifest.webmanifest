@@ -3,7 +3,7 @@
     "background_color": "#ffffff",
     "display": "fullscreen",
     "scope": "/",
-    "start_url": "/ios/app/",
+    "start_url": "/pwa-test/ios/app/",
     "name": "PWA - iOS",
     "short_name": "iOS",
     "icons": [
